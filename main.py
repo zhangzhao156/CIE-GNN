@@ -1,8 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Time    : 2023/6/1 15:56
-# @Author  : zhao
-# @File    : main.py
-
 import argparse
 import os
 from datetime import datetime
