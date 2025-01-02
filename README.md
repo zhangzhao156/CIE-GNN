@@ -8,4 +8,4 @@
 - Tennessee Eastman (TE) process simulation dataset
 - Three-phase Flow Facility (TFF) simulation dataset 
 
-The complete codes will come soon.
+For your convenience, we provide the simplified version of CIE-GNN. The complete codes will come soon.
