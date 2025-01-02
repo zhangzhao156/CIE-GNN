@@ -14,8 +14,7 @@ from torch import nn
 import torch.nn.functional as F
 from torch.optim import Adam
 from torch_geometric.data import DataLoader
-# import models
-from models2.CausalGCN import CLUB, CausalGCN, CausalGAT, CausalGIN
+from CausalGCN import CLUB, CausalGCN, CausalGAT, CausalGIN
 from TEgraph import TEgraph
 
 args = None
